@@ -4,7 +4,7 @@
 
 A modern **AI-powered web application** that predicts the **dog breed** from an uploaded image using a **deep learning Vision Transformer (ViT)** model.  
 Built with **Streamlit + PyTorch + Hugging Face Transformers**, this project demonstrates an end-to-end **machine learning deployment** workflow.
-
+ 
 ---
 
 ## ✨ Features
