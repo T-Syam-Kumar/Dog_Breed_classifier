@@ -9,7 +9,7 @@ Built with **Streamlit + PyTorch + Hugging Face Transformers**, this project dem
 
 ## ✨ Features
 
-- 📤 Upload dog images (JPG / PNG / JPEG) 
+- 📤 Upload dog images (JPG / PNG / JPEG)  
 - 🧠 AI-based dog breed classification
 - 🏆 Displays **top predicted breed**
 - 📊 Shows **Top-5 breed confidence scores** in a bar chart
