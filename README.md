@@ -26,7 +26,7 @@ Built with **Streamlit + PyTorch + Hugging Face Transformers**, this project dem
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Category | Technologies |
 |-------|-------------|
