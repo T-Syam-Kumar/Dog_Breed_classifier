@@ -1,4 +1,4 @@
-# 🐶 Dog Breed Classifier – AI Powered Web App
+#  Dog Breed Classifier – AI Powered Web App
 
 🔗 **Live App:** https://dogbreedclassifier-31.streamlit.app/
 
@@ -7,21 +7,21 @@ Built with **Streamlit + PyTorch + Hugging Face Transformers**, this project dem
  
 ---
 
-## ✨ Features
+##  Features
 
-- 📤 Upload dog images (JPG / PNG / JPEG)  
-- 🧠 AI-based dog breed classification
-- 🏆 Displays **top predicted breed**
-- 📊 Shows **Top-5 breed confidence scores** in a bar chart
-- ⚡ Fast inference with cached model loading
-- 🎨 Clean, responsive, and user-friendly UI
-- 🌐 Fully deployed and publicly accessible
+-  Upload dog images (JPG / PNG / JPEG)  
+-  AI-based dog breed classification
+-  Displays **top predicted breed**
+-  Shows **Top-5 breed confidence scores** in a bar chart
+-  Fast inference with cached model loading
+-  Clean, responsive, and user-friendly UI
+-  Fully deployed and publicly accessible
 
 ---
 
-## 🖼️ Demo
+##  Demo
 
-👉 Try it live here:  
+ Try it live here:  
 **https://dogbreedclassifier-31.streamlit.app/**
 
 ---
@@ -40,7 +40,7 @@ Built with **Streamlit + PyTorch + Hugging Face Transformers**, this project dem
 
 ---
 
-## 🧠 Model Details
+##  Model Details
 
 - **Model Name:** `google/vit-base-patch16-224`
 - **Architecture:** Vision Transformer (ViT)
@@ -48,11 +48,11 @@ Built with **Streamlit + PyTorch + Hugging Face Transformers**, this project dem
 - **Output:** ImageNet class probabilities
 - **Inference:** CPU-based (Streamlit Cloud)
 
-> ⚠️ Note: The model is trained on ImageNet classes. Some predictions may be visually similar dog breeds.
+>  Note: The model is trained on ImageNet classes. Some predictions may be visually similar dog breeds.
 
 ---
 
-## 📊 How It Works
+##  How It Works
 
 1. User uploads a dog image  
 2. Image is preprocessed using Hugging Face `AutoImageProcessor`  
