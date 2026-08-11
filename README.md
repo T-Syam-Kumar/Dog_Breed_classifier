@@ -59,5 +59,4 @@ Built with **Streamlit + PyTorch + Hugging Face Transformers**, this project dem
 3. Vision Transformer predicts class probabilities  
 4. Top-5 predictions are extracted  
 5. Results are displayed with confidence scores  
-
 ---
